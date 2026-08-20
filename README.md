@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @razvanvlad
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React.Js
-- 💞️ I’m looking to collaborate on React.Js / Node.Js projects
 - 📫 How to reach me: razvanvladpop@gmail.com
 Online CV:
 https://razvan-cv.pages.dev/
